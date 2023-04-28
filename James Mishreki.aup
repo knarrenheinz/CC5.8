@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="James Mishreki_data" version="1.3.0" audacityversion="2.3.1" sel0="1942.8527291667" sel1="1942.8527291667" vpos="0" h="1911.9447896106" zoom="38.8055138428" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="James Mishreki_data" version="1.3.0" audacityversion="2.3.1" sel0="55.6106539071" sel1="55.6106539071" vpos="0" h="0.0000000000" zoom="38.8055138428" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
 	<wavetrack name="James Mishreki" channel="2" linked="0" mute="0" solo="0" height="428" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="88.02577083" colorindex="0">
@@ -1503,30 +1503,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="4.21789583" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="1167140">
-				<waveblock start="0">
-					<simpleblockfile filename="e080414f.au" len="152369" min="-0.654755" max="0.891235" rms="0.121962"/>
-				</waveblock>
-				<waveblock start="152369">
-					<simpleblockfile filename="e0804a2d.au" len="159863" min="-0.701202" max="0.891235" rms="0.13965"/>
-				</waveblock>
-				<waveblock start="312232">
-					<simpleblockfile filename="e080465c.au" len="262144" min="-0.727356" max="0.891235" rms="0.131823"/>
-				</waveblock>
-				<waveblock start="574376">
-					<simpleblockfile filename="e0804d6e.au" len="226106" min="-0.818726" max="0.891235" rms="0.126057"/>
-				</waveblock>
-				<waveblock start="800482">
-					<simpleblockfile filename="e0802e8e.au" len="183329" min="-0.556915" max="0.891235" rms="0.10705"/>
-				</waveblock>
-				<waveblock start="983811">
-					<simpleblockfile filename="e0802220.au" len="183329" min="-0.579498" max="0.891235" rms="0.113484"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="28.71370833" colorindex="0">
+		<waveclip offset="25.28635416" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1207996">
 				<waveblock start="0">
 					<simpleblockfile filename="e0802e28.au" len="169840" min="-0.541992" max="0.891235" rms="0.121257"/>
@@ -1571,6 +1548,26 @@
 				</waveblock>
 				<waveblock start="1281049">
 					<simpleblockfile filename="e08028d7.au" len="135000" min="-0.621368" max="0.891235" rms="0.096364"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="4.81889583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="950997">
+				<waveblock start="0">
+					<simpleblockfile filename="e08027a5.au" len="193493" min="-0.807648" max="0.891235" rms="0.118351"/>
+				</waveblock>
+				<waveblock start="193493">
+					<simpleblockfile filename="e080234d.au" len="193493" min="-0.757935" max="0.891235" rms="0.116342"/>
+				</waveblock>
+				<waveblock start="386986">
+					<simpleblockfile filename="e0802670.au" len="249505" min="-0.619446" max="0.891235" rms="0.118129"/>
+				</waveblock>
+				<waveblock start="636491">
+					<simpleblockfile filename="e0802332.au" len="157253" min="-0.641052" max="0.891235" rms="0.131551"/>
+				</waveblock>
+				<waveblock start="793744">
+					<simpleblockfile filename="e08028f4.au" len="157253" min="-0.707977" max="0.891235" rms="0.097677"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -1750,9 +1747,9 @@
 			<envelope numpoints="13">
 				<controlpoint t="3.595024233846" val="1.000000000000"/>
 				<controlpoint t="5.097845801265" val="0.267605662346"/>
-				<controlpoint t="53.446013069149" val="0.239436626434"/>
-				<controlpoint t="54.412370586069" val="1.000000000000"/>
-				<controlpoint t="57.459617956092" val="1.000000000000"/>
+				<controlpoint t="49.786739271807" val="0.267605662346"/>
+				<controlpoint t="51.745223839436" val="1.000000000000"/>
+				<controlpoint t="56.796052461213" val="1.000000000000"/>
 				<controlpoint t="58.264915886859" val="0.239436626434"/>
 				<controlpoint t="76.773436100570" val="0.239436626434"/>
 				<controlpoint t="79.092695595475" val="1.000000000000"/>
